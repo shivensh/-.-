@@ -20,11 +20,7 @@ def hello_world():
     <div class="container" style="bg-dark text-red text-center py-3 mt-5">
         <a href="https://github.com/shivensh" class="card">
             <p>
-              />▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄<br 
-	      />██░▄▄▄░█░▄▄▀█▄░▄██░▀██░█▄░▄██<br 
-              />██▄▄▄▀▀█░▀▀░██░███░█░█░██░███<br 
-	      />██░▀▀▀░█░██░█▀░▀██░██▄░█▀░▀██<br 
-              />▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀<br />
+              />𝐈𝐓'𝐬𝐆𝐎𝐋𝐔.™®❤️/>
                                              <br>
 
                 <b>v2.0.0</b>
@@ -34,7 +30,7 @@ def hello_world():
 	<br></br><br></br><br></br>
 	<footer class="bg-dark text-white text-center py-3 mt-5">
 	<center><img loading="lazy" class="object-none object-center" src="" width="40" height="40">
-        Powered By SAINI 
+        Powered By 𝐈𝐓'𝐬𝐆𝐎𝐋𝐔.™®❤️ 
 		<img loading="lazy" class="object-none object-center" src="" width="40" height="40">
 		<div class="footer__copyright">
             <p class="footer__copyright-info">
